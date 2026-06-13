@@ -1,0 +1,72 @@
+# Privacy Policy – Bobby Discord Bot
+
+**Last updated:** June 2026
+
+This Privacy Policy explains how the Discord bot "Bobby" handles user data.
+
+---
+
+## 1. Data Collection
+
+Bobby does not permanently store any user data.
+
+The Bot may temporarily process the following data only to respond to commands:
+
+* Discord user IDs
+* Discord server IDs
+* Message content sent to the Bot
+* Command inputs
+
+---
+
+## 2. Data Storage
+
+No user data is stored in a database or persistent storage.
+
+Processed data is used only in memory during execution and is discarded immediately after use, unless required for temporary technical operation.
+
+---
+
+## 3. Third Parties
+
+Bobby does not share user data with third parties.
+
+If the Bot is configured to use a local AI system (e.g., self-hosted model), all processing is performed on infrastructure controlled by the Bot Owner.
+
+---
+
+## 4. Data Usage
+
+Data is used exclusively to:
+
+* Provide Bot functionality
+* Process user commands
+* Generate responses
+
+---
+
+## 5. Data Retention
+
+No long-term retention of user data occurs.
+
+---
+
+## 6. Security
+
+Reasonable technical measures are taken to protect the Bot’s infrastructure, but absolute security cannot be guaranteed.
+
+---
+
+## 7. Children’s Privacy
+
+Users must comply with Discord’s minimum age requirements (13+ or local equivalent).
+
+---
+
+## 8. Changes
+
+This Privacy Policy may be updated at any time. Continued use of the Bot implies acceptance of any changes.
+
+---
+
+If you have questions about this Privacy Policy, you may contact the Bot Owner.
